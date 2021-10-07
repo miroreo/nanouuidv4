@@ -1,1 +1,1 @@
-{"name":"nanouuidv4","version":"1.1.0","description":"An absolutely TINY uuid v4 generator.","main":"index.js","repository":"https://github.com/RoBlockHead/tinyuuidv4","keywords":["uuid"],"author":"miroreo","license":"MIT","homepage":"https://github.com/RoBlockHead/tinyuuidv4#readme"}
+{"name":"nanouuidv4","version":"1.1.0","description":"An absolutely TINY uuid v4 generator.","main":"index.js","repository":"https://github.com/RoBlockHead/nanouuidv4","keywords":["uuid"],"author":"miroreo","license":"MIT","homepage":"https://github.com/RoBlockHead/nanouuidv4#readme"}
